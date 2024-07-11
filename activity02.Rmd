@@ -1,0 +1,14 @@
+---
+title: "Activity02"
+author: "Sai Prudhvitha Katam Reddy"
+date: "2024-07-11"
+output: github_document
+---
+
+```{r setup, eval = FALSE}
+library(tidyverse)
+library(tidymodels)
+```
+
+
+![check-in](../README-img/noun-magnifying-glass.png) **Check in**
